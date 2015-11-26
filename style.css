@@ -1,16 +1,8 @@
-* {
-  line-height: 1.2;
-}
-
 h1, h2 {
   border-bottom: 1px solid #ccc;
   line-height:1.6;
 }
 
-li {
-  padding-bottom: 6px;
-}
-
-li li {
-  padding-bottom: 3px;
+ul ul,ol ul,ul ol,ol ol {
+    margin-bottom: 0.6em;
 }
